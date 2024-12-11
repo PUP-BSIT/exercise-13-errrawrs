@@ -24,7 +24,7 @@ def comment_mosquito():
     print("You have the patience and precision of a master coder.")
 
 def comment_delumen():
-    print("")
+    print("Every bug is a step closer to mastery.")
 
 def comment_victorioso():
     print("")
