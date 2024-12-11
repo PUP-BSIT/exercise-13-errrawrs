@@ -25,7 +25,7 @@ def gerald_comment():
     print("Hope your code is compiling without errors today!")
 
 def ivan_comment():
-    print("comment")
+    print("The only limit is your imagination.")
 
 def daniel_comment():
     print("comment")
