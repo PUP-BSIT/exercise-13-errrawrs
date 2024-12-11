@@ -1,56 +1,55 @@
-def display_menu():
-   print("Hello , My Name is Daniel B. Victorioso")
-   print("1) Basic Information")
-   print("2) Goals")
-   print("3) Comment From Reyes")
-   print("4) Comment From  Mosquito")
-   print("5) Comment From  Delumen")
-   print("6) Comment From  Victorioso")
-   print("7: Exit")
-
-def gerald_basic_info():
-   print("Name: Daniel B. Victorioso")
-   print("Age: 24")
-   print("Birthday: November 05, 2000")
+def menu():
+    print("Hello, Gerald K. Mamasalanang")
+    print("1)Basic Information")
+    print("2) Goals")
+    print("3) Comment from Ivan")
+    print("4) Comment from Mosquito")
+    print("5) Comment from Reyes")
+    print("6) Comment from Victorioso")
+    print("7: Exit")
+    
+def basic_info():
+    print("Name: Gerald K. Mamasalanang")
+    print("Age: 19")
+    print("Birthdate: October 26, 2005")
+    print("Hometown: Taguig City")
 
 def goals():
-   print("To be successful in life. Be a skilled cyber security professional")
+    print("My goal is to be successful cyber security expert.")
+    print("To be a successful person.")
 
-def simone_comment():
-   print("")
+def comment_ivan():
+    print("")
 
-def michael_comment():
-   print("")
+def comment_mosquito():
+    print("")
 
-def ivan_comment():
-   print("")
+def comment_reyes():
+    print("")
 
-def daniel_comment():
-   print("")
+def comment_victorioso():
+    print("")
 
 def menu_function():
-   while True:
-      display_menu()
+    while True: 
+        menu()
 
-      user_choice = input("Enter your user_choice: ")
+        user_choice = input("Enter your choice: ")
 
-      if user_choice:
-         gerald_basic_info()
-      elif user_choice == "2":
-         goals()
-      elif user_choice == "3":
-         simone_comment()
-      elif user_choice == "4":
-         michael_comment()
-      elif user_choice == "5": 
-         ivan_comment()
-      elif user_choice == "6":
-         daniel_comment()
-      elif user_choice == "7":
-         print("Exiting...")
-         break
-      else:
-         print("Invalid user_choice!!!")
-
-
-menu_function()
+        if user_choice == "1":
+            basic_info()
+        elif user_choice == "2":
+            goals()
+        elif user_choice == "3":
+            comment_ivan()
+        elif user_choice == "4":
+            comment_mosquito()
+        elif user_choice == "5":
+            comment_reyes
+        elif user_choice == "6":
+            comment_victorioso()
+        elif user_choice == "7":
+            print("Exit.")
+            break
+        else: 
+            print("Invalid Input!")
