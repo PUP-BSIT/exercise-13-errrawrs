@@ -21,7 +21,7 @@ def comment_mamasalanang():
     print("Goodluck! future programmer! you can do it!")
 
 def comment_mosquito():
-    print("")
+    print("You have the patience and precision of a master coder.")
 
 def comment_delumen():
     print("")
