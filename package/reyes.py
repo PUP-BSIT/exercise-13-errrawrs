@@ -18,7 +18,7 @@ def goals():
     print("My goal is to become a Software Engineer.")
 
 def comment_mamasalanang():
-    print("")
+    print("Goodluck! future programmer! you can do it!")
 
 def comment_mosquito():
     print("")
