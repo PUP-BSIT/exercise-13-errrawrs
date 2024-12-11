@@ -27,7 +27,7 @@ def ivan_comment():
    print("Your code defines the future; make it count.")
 
 def simone_comment():
-   print("")
+   print("Every day is a programming day!")
 
 def menu_function():
    display_menu()
