@@ -28,7 +28,7 @@ def comment_reyes():
     print("Don't fear errors—they guide you to greatness.")
 
 def comment_victorioso():
-    print("")
+    print("Your contributions make every project shine brighter.")
 
 def menu_function():
     while True: 
