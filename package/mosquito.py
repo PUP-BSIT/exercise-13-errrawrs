@@ -19,7 +19,7 @@ def goal():
     print("\n")
 
 def simone_comment():
-    print("comment")
+    print("Don't fear errors—they guide you to greatness.")
 
 def gerald_comment():
     print("comment")
