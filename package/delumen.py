@@ -19,7 +19,7 @@ def goals():
     print("To be a successful person.")
 
 def comment_mamasalanang():
-    print("")
+    print("Goodluck future Programmer!")
 
 def comment_mosquito():
     print("")
