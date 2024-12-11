@@ -1,4 +1,4 @@
-from package.delumen import menu_function
+from package.delumen import menu_function as delumen_main
 from package.victorioso import menu_function as victorioso_main
 
 def menu_members():
@@ -18,6 +18,7 @@ def main_function():
 
         if choice == 1:
             print("Ivan")
+            delumen_main()
         elif choice == 2:
             print("Gerald")
         elif choice == 3:
