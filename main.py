@@ -1,6 +1,6 @@
 from package.mamasalanang import menu_function as mamasalanang_main
 from package.reyes import main as reyes_main
-
+from package.victorioso import menu_function as victorioso_main
 def menu_members():
     print("Welcome! Select a Person!")
     print("1. Ivan Delumen")
