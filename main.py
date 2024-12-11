@@ -1,3 +1,4 @@
+from package.delumen import menu_function
 from package.victorioso import menu_function as victorioso_main
 
 def menu_members():
