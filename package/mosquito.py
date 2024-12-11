@@ -22,7 +22,7 @@ def simone_comment():
     print("Don't fear errors—they guide you to greatness.")
 
 def gerald_comment():
-    print("comment")
+    print("Hope your code is compiling without errors today!")
 
 def ivan_comment():
     print("comment")
