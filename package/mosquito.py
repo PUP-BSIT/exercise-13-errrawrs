@@ -28,7 +28,7 @@ def ivan_comment():
     print("The only limit is your imagination.")
 
 def daniel_comment():
-    print("comment")
+    print("The clarity of your documentation is a lifesaver!")
 
 def menu_function():
 
