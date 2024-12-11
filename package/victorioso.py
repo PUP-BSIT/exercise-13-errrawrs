@@ -6,7 +6,8 @@ def display_menu():
    print("4) Comment From  Mosquito")
    print("5) Comment From  Delumen")
    print("6) Comment From  Reyes")
-   print("7: Exit")
+   print("7) Back to Main Menu")
+   print("8) Exit")
 
 def basic_info():
    print("Name: Daniel B. Victorioso")
@@ -47,6 +48,8 @@ def menu_function():
       elif user_choice == "6":
          simone_comment()
       elif user_choice == "7":
+         break
+      elif user_choice == "8":
          print("Exiting...")
          exit()
       else:
