@@ -25,7 +25,7 @@ def comment_mosquito():
     print("Dream it, code it, deploy it.")
 
 def comment_reyes():
-    print("")
+    print("Keep pushing; the syntax will eventually agree with you.")
 
 def comment_victorioso():
     print("Be happy in your life. Good luck to your journey!")
