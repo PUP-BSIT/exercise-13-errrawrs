@@ -29,12 +29,12 @@ def simone_comment():
    print("")
 
 def menu_function():
+   display_menu()
+
+   user_choice = input("Enter your user_choice: ")
+
    while True:
-      display_menu()
-
-      user_choice = input("Enter your user_choice: ")
-
-      if user_choice:
+      if user_choice == "1":
          basic_info()
       elif user_choice == "2":
          goals()
@@ -48,6 +48,6 @@ def menu_function():
          simone_comment()
       elif user_choice == "7":
          print("Exiting...")
-         break
+         exit()
       else:
          print("Invalid user_choice!!!")

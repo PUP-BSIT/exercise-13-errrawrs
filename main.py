@@ -10,11 +10,11 @@ def menu_members():
     print("6. Exit")
 
 def main_function():
-    menu_members()
-
-    choice = int(input("Enter your Choice: "))
-
     while True:
+        menu_members()
+
+        choice = int(input("Enter your Choice: "))
+
         if choice == 1:
             print("Ivan")
         elif choice == 2:
