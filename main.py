@@ -1,4 +1,4 @@
-from package.delumen import menu_function as delumen_main
+from package.mosquito import menu_function as mosquito_main
 from package.mamasalanang import menu_function as mamasalanang_main
 from package.victorioso import menu_function as victorioso_main
 from package.reyes import main as reyes_main
@@ -26,6 +26,7 @@ def main_function():
             mamasalanang_main()
         elif choice == 3:
             print("Michael")
+            mosquito_main()
         elif choice == 4:
             print("Simone")
             reyes_main()
