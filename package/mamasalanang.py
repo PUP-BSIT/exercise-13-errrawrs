@@ -28,7 +28,7 @@ def comment_reyes():
     print("")
 
 def comment_victorioso():
-    print("")
+    print("Be happy in your life. Good luck to your journey!")
 
 def menu_function():
     while True: 
