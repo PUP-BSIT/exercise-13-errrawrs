@@ -27,7 +27,7 @@ def comment_delumen():
     print("Every bug is a step closer to mastery.")
 
 def comment_victorioso():
-    print("")
+    print("You’re the kind of developer every team dreams of.")
 
 def main():
     while True:
