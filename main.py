@@ -1,3 +1,5 @@
+from package.victorioso import menu_function as victorioso_main
+
 def menu_members():
     print("Welcome! Select a Person!")
     print("1. Ivan Delumen")
@@ -22,11 +24,12 @@ def main_function():
         elif choice == 4:
             print("Simone")
         elif choice == 5:
-            print("Daniel")
+            print("\n")
+            victorioso_main()
         elif choice == 6:
             print("Exiting")
             break
-        elif choice == 7:
+        else:
             print("Invalid Choice")
 
 main_function()
