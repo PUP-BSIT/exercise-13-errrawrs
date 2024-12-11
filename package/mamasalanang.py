@@ -45,7 +45,7 @@ def menu_function():
         elif user_choice == "4":
             comment_mosquito()
         elif user_choice == "5":
-            comment_reyes
+            comment_reyes()
         elif user_choice == "6":
             comment_victorioso()
         elif user_choice == "7":
