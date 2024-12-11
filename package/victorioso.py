@@ -17,7 +17,7 @@ def goals():
    print("To be successful in life. Be a skilled cyber security professional")
 
 def gerald_comment():
-   print("")
+   print("Goodluck future programmer, may your path will guide you to your future")
 
 def michael_comment():
    print("")
