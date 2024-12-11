@@ -22,7 +22,7 @@ def simone_comment():
     print("comment")
 
 def gerald_comment():
-    print("comment")
+    print("Goodluck future Programmer!")
 
 def ivan_comment():
     print("comment")
