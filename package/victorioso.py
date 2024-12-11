@@ -21,7 +21,7 @@ def gerald_comment():
    print("Goodluck future programmer, may your path will guide you to your future")
 
 def michael_comment():
-   print("")
+   print("Type today, change the world tomorrow.")
 
 def ivan_comment():
    print("")
