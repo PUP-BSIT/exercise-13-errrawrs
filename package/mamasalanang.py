@@ -22,7 +22,7 @@ def comment_ivan():
     print("Code smart, debug smarter!")
 
 def comment_mosquito():
-    print("")
+    print("Dream it, code it, deploy it.")
 
 def comment_reyes():
     print("")
