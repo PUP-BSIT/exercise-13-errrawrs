@@ -1,4 +1,3 @@
-from package.mosquito import menu_function as mosquito_main
 from package.mamasalanang import menu_function as mamasalanang_main
 from package.victorioso import menu_function as victorioso_main
 from package.reyes import main as reyes_main
