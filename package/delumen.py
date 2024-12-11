@@ -25,7 +25,7 @@ def comment_mosquito():
     print("You're a genius at turning ideas into flawless code! ")
 
 def comment_reyes():
-    print("")
+    print("Don't fear errors—they guide you to greatness.")
 
 def comment_victorioso():
     print("")
