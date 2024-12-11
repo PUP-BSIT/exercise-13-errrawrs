@@ -24,7 +24,7 @@ def michael_comment():
    print("Type today, change the world tomorrow.")
 
 def ivan_comment():
-   print("")
+   print("Your code defines the future; make it count.")
 
 def simone_comment():
    print("")
