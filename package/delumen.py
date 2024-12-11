@@ -22,7 +22,7 @@ def comment_mamasalanang():
     print("Goodluck future Programmer!")
 
 def comment_mosquito():
-    print("")
+    print("You're a genius at turning ideas into flawless code! ")
 
 def comment_reyes():
     print("")
