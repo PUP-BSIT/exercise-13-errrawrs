@@ -25,7 +25,7 @@ def comment_mosquito():
     print("")
 
 def comment_reyes():
-    print("")
+    print("Hello I'm Simone Jake D. Reyes. I'a one of Ivan's groupmates")
 
 def comment_victorioso():
     print("")
